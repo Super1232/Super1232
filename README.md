@@ -27,8 +27,8 @@ Actualmente estoy cursando **3º de Ingeniería Informática** en la **Universid
 
 
 ### ⚙️ Herramientas y plataformas
-> **Sistemas Operativos**: Windows (principal), Linux (básico).
-> **Control de versiones**: Git y GitHub para gestión de proyectos.
+>- **Sistemas Operativos**: Windows (principal), Linux (básico).
+>- **Control de versiones**: Git y GitHub para gestión de proyectos.
 
 
 ---
