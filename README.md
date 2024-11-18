@@ -1,42 +1,54 @@
-# 👋 ¡Hola! Soy Javier
-### Estudiante de Ingeniería Informática | Apasionado por la Inteligencia Artificial.
+# 👋 ¡Hola! Soy **Javier**  
+### 🎓 Estudiante de Ingeniería Informática | 🚀 Apasionado por la Inteligencia Artificial  
 
-📚 **Actualmente**:  
-Estoy cursando **3º de Ingeniería Informática** en la Universidad Camilo José Cela. Planeo especializarme en **Inteligencia Artificial** a través de un máster en el futuro.  
+---
+
+## 📚 Acerca de mí  
+Actualmente estoy cursando **3º de Ingeniería Informática** en la **Universidad Camilo José Cela**. Planeo especializarme en el apasionante mundo de la **Inteligencia Artificial** mediante un máster.  
 
 🧠 **Intereses y objetivos**:  
-- Estoy siempre en busca de proyectos y colaboraciones que me permitan ampliar mis conocimientos y adquirir experiencia práctica en el mundo real.  
-- Me apasiona enfrentar problemas complejos, aprender nuevas tecnologías y aplicar lo aprendido en soluciones innovadoras.  
-- Actualmente, mi enfoque está en el desarrollo de software, la programación distribuida y el apasionante campo de la **Inteligencia Artificial**.  
-- Además, siento una gran fascinación por los **aviones**, los **cohetes** y el **espacio**. Mi interés por la exploración tecnológica y el universo potencia mi creatividad, impulsa mi imaginación y alimenta mi curiosidad por superar grandes desafíos.  
-  
-
+- 🔍 Siempre en busca de **proyectos y colaboraciones** para ampliar mis conocimientos y adquirir experiencia práctica.  
+- 💡 Me apasiona resolver **problemas complejos**, aprender nuevas tecnologías y aplicar lo aprendido en **soluciones innovadoras**.  
+- 💻 Mi enfoque actual está en el desarrollo de software, la programación distribuida y la **Inteligencia Artificial**.  
+- 🌌 Fascinado por los **aviones**, los **cohetes** y el **espacio**. Mi interés por la exploración tecnológica potencia mi **creatividad**, impulsa mi imaginación y alimenta mi curiosidad por superar grandes desafíos.  
 
 📫 **Contáctame**:  
-- Email: javierpozagarijo.7@gmail.com  
-- GitHub: [github.com/Super1232](https://github.com/Super1232)  
+- ✉️ **Email**: [javierpozagarijo.7@gmail.com](mailto:javierpozagarijo.7@gmail.com)  
+- 🌐 **GitHub**: [github.com/Super1232](https://github.com/Super1232)  
 
 ---
 
 ## 🛠️ Habilidades técnicas  
 
-### Lenguajes de programación  
-- **Python**: Desarrollo de scripts, automatización y proyectos distribuidos.  
-- **Java**: Programación orientada a objetos.  
-- **C**: Desarrollo básico en sistemas UNIX/Linux.  
-- **SQL**: Manejo de bases de datos relacionales.  
-- **JavaScript**: Fundamentos de desarrollo web.
-- **R**: Análisis de datos y estadística básica. 
+### 🖥️ Lenguajes de programación  
+| **Lenguaje**    | **Nivel de experiencia**       |  
+|------------------|--------------------------------|  
+| Python           | Desarrollo de scripts y automatización. |  
+| Java             | Programación orientada a objetos.       |  
+| C                | Desarrollo básico en sistemas UNIX/Linux. |  
+| SQL              | Manejo de bases de datos relacionales.   |  
+| JavaScript       | Fundamentos de desarrollo web.           |  
+| R                | Análisis de datos y estadística básica.  |  
 
-### Herramientas y plataformas  
-- **Sistemas Operativos**: Windows (principal), Linux (configuración y uso básico).  
-- **Versionado**: Git y GitHub para la gestión de proyectos.  
+### ⚙️ Herramientas y plataformas  
+| **Herramienta/Plataforma** | **Descripción**                     |  
+|----------------------------|-------------------------------------|  
+| **Sistemas Operativos**    | Windows (principal), Linux (básico). |  
+| **Control de versiones**   | Git y GitHub para gestión de proyectos. |  
 
+---
 
 ## 🚀 ¿Por qué trabajar conmigo?  
-Soy una persona proactiva, creativa con una gran pasión por aprender y adaptarme a nuevos desafíos. Me esfuerzo por dar el 100% en cada tarea, y busco continuamente formas de mejorar tanto mis habilidades como los resultados que entrego.  
+Soy una persona **proactiva** y **creativa**, con una gran pasión por aprender y adaptarme a nuevos desafíos. Siempre me esfuerzo por dar el **100%** en cada tarea y busco constantemente formas de mejorar tanto mis habilidades como los resultados que entrego.  
 
-¡Estoy listo para contribuir en proyectos innovadores y seguir creciendo como profesional!
+✨ Mi enfoque no solo está en realizar un trabajo excelente, sino también en aportar ideas creativas y soluciones innovadoras que hagan la diferencia.  
+
+💡 **Estoy listo para contribuir en proyectos innovadores y seguir creciendo como profesional.**  
+
+---
+
+_¡Gracias por visitar mi perfil! No dudes en contactarme para colaborar o simplemente para charlar sobre tecnología e innovación._ 😊
+
 
 
 
