@@ -4,37 +4,32 @@
 ---
 
 ## 📚 Acerca de mí  
-Actualmente estoy cursando **3º de Ingeniería Informática** en la **Universidad Camilo José Cela**. Planeo especializarme en el apasionante mundo de la **Inteligencia Artificial** mediante un máster.  
+Actualmente estoy cursando **3º de Ingeniería Informática** en la **Universidad Camilo José Cela**. Planeo especializarme en el mundo de la **Inteligencia Artificial** mediante un máster.  
 
-🧠 **Intereses y objetivos**:  
-- 🔍 Siempre en busca de **proyectos y colaboraciones** para ampliar mis conocimientos y adquirir experiencia práctica.  
-- 💡 Me apasiona resolver **problemas complejos**, aprender nuevas tecnologías y aplicar lo aprendido en **soluciones innovadoras**.  
-- 💻 Mi enfoque actual está en el desarrollo de software, la programación distribuida y la **Inteligencia Artificial**.  
-- 🌌 Fascinado por los **aviones**, los **cohetes** y el **espacio**. Mi interés por la exploración tecnológica potencia mi **creatividad**, impulsa mi imaginación y alimenta mi curiosidad por superar grandes desafíos.  
+>🧠 **Intereses y objetivos**:  
+>- 🔍 Siempre en busca de **proyectos y colaboraciones** para ampliar mis conocimientos y adquirir experiencia práctica.  
+>- 💡 Me apasiona resolver **problemas complejos**, aprender nuevas tecnologías y aplicar lo aprendido en **soluciones innovadoras**.  
+>- 💻 Mi enfoque actual está en el desarrollo de software, la programación distribuida y la **Inteligencia Artificial**.  
+>- 🌌 Fascinado por los **aviones**, los **cohetes** y el **espacio**. Mi interés por la exploración tecnológica potencia mi **creatividad**, impulsa mi imaginación y alimenta mi curiosidad por superar grandes desafíos.  
 
-📫 **Contáctame**:  
-- ✉️ **Email**: [javierpozagarijo.7@gmail.com](mailto:javierpozagarijo.7@gmail.com)  
-- 🌐 **GitHub**: [github.com/Super1232](https://github.com/Super1232)  
 
 ---
 
 ## 🛠️ Habilidades técnicas  
 
 ### 🖥️ Lenguajes de programación  
-| **Lenguaje**    | **Nivel de experiencia**       |  
-|------------------|--------------------------------|  
-| Python           | Desarrollo de scripts y automatización. |  
-| Java             | Programación orientada a objetos.       |  
-| C                | Desarrollo básico en sistemas UNIX/Linux. |  
-| SQL              | Manejo de bases de datos relacionales.   |  
-| JavaScript       | Fundamentos de desarrollo web.           |  
-| R                | Análisis de datos y estadística básica.  |  
+> - **Python**: Desarrollo de scripts y automatización.  
+> - **Java**: Programación orientada a objetos.  
+> - **C**: Desarrollo básico en sistemas UNIX/Linux.  
+> - **SQL**: Manejo de bases de datos relacionales.  
+> - **JavaScript**: Fundamentos de desarrollo web.  
+> - **R**: Análisis de datos y estadística básica.  
 
-### ⚙️ Herramientas y plataformas  
-| **Herramienta/Plataforma** | **Descripción**                     |  
-|----------------------------|-------------------------------------|  
-| **Sistemas Operativos**    | Windows (principal), Linux (básico). |  
-| **Control de versiones**   | Git y GitHub para gestión de proyectos. |  
+
+### ⚙️ Herramientas y plataformas
+> **Sistemas Operativos**: Windows (principal), Linux (básico).
+> **Control de versiones**: Git y GitHub para gestión de proyectos.
+
 
 ---
 
@@ -46,6 +41,10 @@ Soy una persona **proactiva** y **creativa**, con una gran pasión por aprender 
 💡 **Estoy listo para contribuir en proyectos innovadores y seguir creciendo como profesional.**  
 
 ---
+
+📫 **Contáctame**:  
+- ✉️ **Email**: [javierpozagarijo.7@gmail.com](mailto:javierpozagarijo.7@gmail.com)  
+- 🌐 **GitHub**: [github.com/Super1232](https://github.com/Super1232)  
 
 _¡Gracias por visitar mi perfil! No dudes en contactarme para colaborar o simplemente para charlar sobre tecnología e innovación._ 😊
 
