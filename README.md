@@ -35,10 +35,8 @@ Actualmente estoy cursando **3º de Ingeniería Informática** en la **Universid
 
 ## 🚀 ¿Por qué trabajar conmigo?  
 Soy una persona **proactiva** y **creativa**, con una gran pasión por aprender y adaptarme a nuevos desafíos. Siempre me esfuerzo por dar el **100%** en cada tarea y busco constantemente formas de mejorar tanto mis habilidades como los resultados que entrego.  
-
-✨ Mi enfoque no solo está en realizar un trabajo excelente, sino también en aportar ideas creativas y soluciones innovadoras que hagan la diferencia.  
-
-💡 **Estoy listo para contribuir en proyectos innovadores y seguir creciendo como profesional.**  
+>-✨ Mi enfoque no solo está en realizar un trabajo excelente, sino también en aportar ideas creativas y soluciones innovadoras que hagan la diferencia.  
+>-💡 **Estoy listo para contribuir en proyectos innovadores y seguir creciendo como profesional.**  
 
 ---
 
