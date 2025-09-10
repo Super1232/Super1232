@@ -4,7 +4,7 @@
 ---
 
 ## 📚 Acerca de mí  
-Actualmente estoy cursando **3º de Ingeniería Informática** en la **Universidad Camilo José Cela**. Planeo especializarme en el mundo de la **Inteligencia Artificial** mediante un máster.  
+Actualmente estoy cursando **4º de Ingeniería Informática** en la **Universidad Camilo José Cela**. Planeo especializarme en el mundo de la **Inteligencia Artificial** mediante un máster.  
 
 >🧠 **Intereses y objetivos**:  
 >- 🔍 Siempre en busca de **proyectos y colaboraciones** para ampliar mis conocimientos y adquirir experiencia práctica.  
