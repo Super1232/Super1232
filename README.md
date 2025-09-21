@@ -19,8 +19,7 @@ Actualmente estoy cursando **4º de Ingeniería Informática** en la **Universid
 
 ### 🖥️ Lenguajes de programación  
 > - **Python**: Desarrollo de scripts y automatización.  
-> - **Java**: Programación orientada a objetos.  
-> - **C**: Desarrollo básico en sistemas UNIX/Linux.  
+> - **Java**: Programación orientada a objetos.   
 > - **SQL**: Manejo de bases de datos relacionales.  
 > - **JavaScript**: Fundamentos de desarrollo web.  
 > - **R**: Análisis de datos y estadística básica.  
