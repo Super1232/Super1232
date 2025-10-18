@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy **Javier**  
-### 🎓 Estudiante de Ingeniería Informática | 🚀 Apasionado por la Inteligencia Artificial  
+### 🎓 Estudiante de Ingeniería Informática | 🚀 Data & AI
 
 ---
 
