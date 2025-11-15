@@ -11,7 +11,6 @@
 
 </div>
 
-<br>
 
 ---
 
@@ -180,7 +179,7 @@ Estudiante de **4º año de Ingeniería Informática** en la **Universidad Camil
 
 ## 📫 Conectemos
 
-<br>
+
 
 <div align="center">
 
@@ -199,18 +198,10 @@ Estudiante de **4º año de Ingeniería Informática** en la **Universidad Camil
 
 
 
-<br>
 
 *Gracias por visitar mi perfil. Estoy siempre abierto a nuevas colaboraciones, ideas innovadoras y conversaciones sobre tecnología.* 🚀
 
 **¿Tienes un proyecto interesante? ¡Trabajemos juntos!**
 
-<br>
 
 </div>
-
-<br>
-
----
-
-<br>
